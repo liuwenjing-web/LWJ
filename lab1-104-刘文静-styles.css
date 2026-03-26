@@ -1,0 +1,16 @@
+a:link{
+	color: black;		
+	text-decoration:none;
+		}
+a:hover{
+	color: red;		
+		}
+a:visited{
+	color: blue;		
+		}
+.intro{
+		color:blue;
+		font-size:16px;
+		font-family:宋体；
+		font-weight：bold;
+		}
